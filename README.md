@@ -1,2 +1,3 @@
 # TheFilmRaterSampleMobileApplication
-An Android mobile application 
+
+Details to come
